@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Alvaro Almendros Gala!</h1>
+<h1 align="left">Hello, I'm Alvaro Almendros Gala!</h1>
 
 - Ask me about:
   - 💻 **frontend** (typescript, next.js, react, redux, material (MUI))
